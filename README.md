@@ -1,7 +1,7 @@
 # Network Monitor
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="Network Monitor Screenshot" width="700">
+  <img src="assets/Screenshot.png" alt="Network Monitor Screenshot" width="700">
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## Quick Download
 
-**[⬇Download NetworkMonitor.dmg](NetworkMonitor.dmg)** (Latest Version)
+**[Download NetworkMonitor.dmg](NetworkMonitor.dmg)** (Latest Version)
 
 > **First time opening?** Right-click the app → Select "Open" → Click "Open" in the dialog (required for unsigned apps)
 
@@ -45,12 +45,6 @@
 - **Search & Sort** - Quickly find apps and sort by various metrics
 - **Smart Filtering** - Excludes local traffic, VPN tunnels, and system services
 - **Lightweight** - Native Swift app with minimal resource usage
-
-## Screenshots
-
-<p align="center">
-  <img src="assets/header.png" alt="Header Stats" width="700">
-</p>
 
 ## Installation
 
