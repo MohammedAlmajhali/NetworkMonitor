@@ -93,7 +93,7 @@ This approach ensures the total bytes shown match your ISP bill, while still pro
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/NetworkMonitor.git
+git clone https://github.com/MohammedAlmajhali/NetworkMonitor.git
 cd NetworkMonitor
 
 # Build in release mode
@@ -187,5 +187,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/NetworkMonitor/stargazers">⭐ Star this repo</a> if you find it useful!
+  <a href="https://github.com/MohammedAlmajhali/NetworkMonitor/stargazers">⭐ Star this repo</a> if you find it useful!
 </p>
