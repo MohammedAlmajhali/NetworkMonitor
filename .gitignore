@@ -1,0 +1,37 @@
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.xcuserstate
+*.xcschemes/
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# App bundles (built locally)
+*.app/
+# Keep DMG for releases
+# *.dmg
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+DerivedData/
+build/
+
+# Temporary files
+*.log
+*.tmp
